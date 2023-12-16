@@ -1,4 +1,4 @@
-# Workaround for Next.js's case sensitive urls
+# Workaround to Next.js's case sensitive urls
 
 Next.js's urls are case sensitive by default. Example:
 
