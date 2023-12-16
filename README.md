@@ -1,0 +1,1 @@
+# case-insensitive-Next.js-Urls
