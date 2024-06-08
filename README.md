@@ -11,7 +11,3 @@ Every page that doesn't exist automatically redirects to a 404 page. You can mod
 This is a naming convension you need to follow. You can check whether the url is all lower case and if not you can redirect to a lower case version.
 
 Look at ```fix.js``` file in this repository for an example.
-
-
-## DISCLAIMER
-This is NOT official and is just MY way to make it work. This may not be the most efficient way to solve the problem.
